@@ -12,4 +12,4 @@ This repo documents my progress learning data skills from zero and building a po
 - /projects: write-ups for portfolio projects
 
 ## Progress Log
-- Week 1: SQL basics + Python basics (in progress)
+- Week 1: SQL basics + Python basics (✅)
